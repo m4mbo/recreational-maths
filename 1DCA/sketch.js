@@ -3,7 +3,7 @@ let cells = getCells(n);
 let w = 5;
 let y = 0;
 
-let rule = 182;
+let rule = 34;
 let ruleSet = getRuleSet(rule);
 
 function setup() {
